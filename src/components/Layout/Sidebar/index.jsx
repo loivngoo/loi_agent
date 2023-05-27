@@ -51,7 +51,7 @@ function Sidebar(props) {
                 </div>
                 <div>
                     <div className="flex justify-center items-center gap-x-4 min-h-[5rem] shadow-sm shadow-cyan-500/50">
-                        <h1 className={`${!open && 'md:scale-0'} text-white duration-100 text-xl font-bold`}>TikiVZ</h1>
+                        <h1 className={`${!open && 'md:scale-0'} text-white duration-100 text-xl font-bold`}>Tiki</h1>
                     </div>
                     <div>
                         <ul className="pl-2 py-2">

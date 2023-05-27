@@ -102,7 +102,7 @@ function ManageEvent() {
             <div className="grid grid-cols-3 gap-3 mt-5">
                 <div className="bg-[#111c45] col-span-3 rounded-md">
                     <div className="flex flex-wrap justify-between p-4 card-header">
-                        <h3 className="font-bold text-white">Danh sách người mã mời</h3>
+                        <h3 className="font-bold text-white">Danh sách sự kiện</h3>
                         <div className="mt-2 sm:mt-1">
                             <input
                                 className="duration-200 search rounded-md p-1 pl-2 w-[300px] outline-none"
